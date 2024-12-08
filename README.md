@@ -12,7 +12,7 @@
 
 ### I'm only a student, so I don't have much time to code🙄.
 Specially, from Monday to Friday, I have no time, but on Saturday and Sunday, I have time to code. So, please do it on Saturday and Sunday If you want to reach me.
-![GitHub Streak](https://streak-stats.demolab.com/?user=SegmentationFaultCD)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SegmentationFaultCD)![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SegmentationFaultCD)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SegmentationFaultCD)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SegmentationFaultCD)<br>![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SegmentationFaultCD)
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SegmentationFaultCD)<br>
