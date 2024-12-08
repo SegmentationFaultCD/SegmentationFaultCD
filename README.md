@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning modern C++
 - 💬 Ask me about anything related to C++/Assembly or C😎
 - ⚡ Fun fact: I want to be a great computer engineer!😋
-- 📫 How to reach me: send emails to segmentationfaultcd@gmail.com(Google email), c2100china@outlook.com(Microsoft email) or 3076253106@qq.email(QQ email)
+- 📫 How to reach me:
+  - send emails to segmentationfaultcd@gmail.com(Google email), c2100china@outlook.com(Microsoft email) or 3076253106@qq.email(QQ email)
 
 ### I'm only a student, so I don't have much time to code🙄.
 Specially, from Monday to Friday, I have no time, but on Saturday and Sunday, I have time to code.
