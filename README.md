@@ -13,13 +13,10 @@
 ### I'm only a student, so I don't have much time to code🙄.
 <a href="github.com/SegmentationFaultCD">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SegmentationFaultCD&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a><br>
-Specially, from Monday to Friday, I have no time, but on Saturday and Sunday, I have time to code.<br>So, please do it on Saturday and Sunday If you want to reach me.
-
-## Languages
-<a href="github.com/SegmentationFaultCD">
+</a><a href="github.com/SegmentationFaultCD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SegmentationFaultCD&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a><br>
+Specially, from Monday to Friday, I have no time, but on Saturday and Sunday, I have time to code.<br>So, please do it on Saturday and Sunday If you want to reach me.<br>
 C++ is my favorite language!
 
 
