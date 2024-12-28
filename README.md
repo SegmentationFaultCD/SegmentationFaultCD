@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something meaningful😋
 - 🌱 I’m currently learning modern C++
-- 💬 Ask me about anything related to C++/Assembly or C😎
+- 💬 Ask me about anything related to C++ and Assembly😎
 - ⚡ Fun fact: I want to be a great computer engineer!😋
 - 📫 How to reach me:
   - send emails:
