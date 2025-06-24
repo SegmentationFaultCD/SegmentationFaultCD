@@ -8,7 +8,6 @@
   - send emails:
     - Google email: to segmentationfaultcd@gmail.com
     - Microsoft email: to c2100china@outlook.com
-    - QQ email : to 3076253106@qq.email
 
 ### I'm only a student, so I don't have much time to code🙄.
 <a href="github.com/SegmentationFaultCD">
