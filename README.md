@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something meaningful😋
 - 🌱 I’m currently learning modern C++
-- 💬 Ask me about anything related to C++ and Assembly😎
+- 💬 Ask me about anything related to C++ and Operation System😎
 - ⚡ Fun fact: I want to be a great computer engineer!😋
 - 📫 How to reach me:
   - send emails:
@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SegmentationFaultCD&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a><br>
 
-
+PS: In fact, I haven't have very great idea that develop program since I finish my final exam, beacuse I'm busy playing minecraft!😋
 <!--
 **SegmentationFaultCD/SegmentationFaultCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
